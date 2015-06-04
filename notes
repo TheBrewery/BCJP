@@ -1,0 +1,11 @@
+"name" : "25B. Saison"
+Vital Statistics: OG: 1.048 – 1.065 (standard)
+IBUs: 20 – 35 FG: 1.002 – 1.008 (standard)
+SRM: 5 – 14 (pale) ABV: 3.5 – 5.0% (table)
+ 15 – 22 (dark)  5.0 – 7.0% (standard) 7.0 – 9.5% (super)
+
+Vital Statistics: OG, FG, IBUs, SRM and ABV will vary depending on the underlying base beer, but the fruit will often be reflected in the color.
+
+"og_low" : "variable",
+"ibu_low" : "variable",
+"srm_low" : "variable",

@@ -1,0 +1,226 @@
+[
+    {
+        "category_name": "Light Lager",
+        "style_names": [
+            "1A. American Light Lager",
+            "1B. American Lager",
+            "2A. International Pale Lager",
+            "4A. Munich Helles",
+            "5C. Helles Exportbier"
+        ]
+    },
+    {
+        "category_name": "Pilsner",
+        "style_names": [
+            "5D. German Pils",
+            "3B. Czech Premium Pale Lager",
+            "27. Historical Beer (Pre-Prohibition Lager)"
+        ]
+    },
+    {
+        "category_name": "European Amber Lager",
+        "style_names": [
+            "7A. Vienna Lager ",
+            "6A. Märzen"
+        ]
+    },
+    {
+        "category_name": "Dark Lager",
+        "style_names": [
+            "2C. International Dark Lager",
+            "8A. Munich Dunkel",
+            "8B. Schwarzbier"
+        ]
+    },
+    {
+        "category_name": "Bock",
+        "style_names": [
+            "4C. Helles Bock",
+            "6C. Dunkles Bock",
+            "9A. Doppelbock",
+            "9B. Eisbock"
+        ]
+    },
+    {
+        "category_name": "Light Hybrid Beer",
+        "style_names": [
+            "1C. Cream Ale",
+            "18A. Blonde Ale",
+            "5B. Kölsch",
+            "1D. American Wheat Beer"
+        ]
+    },
+    {
+        "category_name": "Amber Hybrid Beer",
+        "style_names": [
+            "2B. International Amber Lager",
+            "19B. California Common",
+            "7B. Altbier"
+        ]
+    },
+    {
+        "category_name": "English Pale Ale",
+        "style_names": [
+            "11A. Ordinary Bitter",
+            "11B. Best Bitter",
+            "11C. Strong Bitter"
+        ]
+    },
+    {
+        "category_name": "Scottish and Irish Ale",
+        "style_names": [
+            "14A. Scottish Light",
+            "14B. Scottish Heavy",
+            "14C. Scottish Export",
+            "15A. Irish Red Ale",
+            "17C. Wee Heavy"
+        ]
+    },
+    {
+        "category_name": "American Ale",
+        "style_names": [
+            "18B. American Pale Ale",
+            "19A. American Amber Ale",
+            "19C. American Brown Ale"
+        ]
+    },
+    {
+        "category_name": "English Brown Ale",
+        "style_names": [
+            "13A. Dark Mild",
+            "27. Historical Beer (London Brown Ale)",
+            "13B. British Brown Ale"
+        ]
+    },
+    {
+        "category_name": "Porter",
+        "style_names": [
+            "13C. English Porter",
+            "20A. American Porter",
+            "9C. Baltic Porter"
+        ]
+    },
+    {
+        "category_name": "Stout",
+        "style_names": [
+            "15B. Irish Stout",
+            "16A. Sweet Stout",
+            "16B. Oatmeal Stout",
+            "16D. Foreign Export Stout",
+            "20B. American Stout",
+            "20C. Imperial Stout"
+        ]
+    },
+    {
+        "category_name": "India Pale Ale (IPA)",
+        "style_names": [
+            "12C. English IPA",
+            "21A. American IPA",
+            "22A. Double IPA"
+        ]
+    },
+    {
+        "category_name": "German Wheat and Rye Beer",
+        "style_names": [
+            "10A. Weissbier",
+            "10B. Dunkles Weissbier",
+            "10C. Weizenbock",
+            "27. Historical Beer (Roggenbier)"
+        ]
+    },
+    {
+        "category_name": "Belgian and French Ale",
+        "style_names": [
+            "24A. Witbier",
+            "24B. Belgian Pale Ale",
+            "25B. Saison",
+            "24C. Bière de Garde",
+            "34A. Clone Beer (Belgian styles only)"
+        ]
+    },
+    {
+        "category_name": "Sour Ale",
+        "style_names": [
+            "23A. Berliner Weisse",
+            "23B. Flanders Red Ale",
+            "23C. Oud Bruin",
+            "23D. Lambic",
+            "23E. Gueuze",
+            "23F. Fruit Lambic"
+        ]
+    },
+    {
+        "category_name": "Belgian Strong Ale",
+        "style_names": [
+            "25A. Belgian Blond Ale",
+            "26B. Belgian Dubbel",
+            "26C. Belgian Tripel",
+            "25C. Belgian Golden Strong Ale",
+            "26D. Belgian Dark Strong Ale"
+        ]
+    },
+    {
+        "category_name": "Strong Ale",
+        "style_names": [
+            "17B. Old Ale",
+            "17D. English Barleywine",
+            "22C. American Barleywine"
+        ]
+    },
+    {
+        "category_name": "Fruit Beer",
+        "style_names": [
+            "29A. Fruit Beer"
+        ]
+    },
+    {
+        "category_name": "Spice/Herb/Vegetable Beer",
+        "style_names": [
+            "30A. Spice, Herb, or Vegetable Beer",
+            "30C. Winter Seasonal Beer"
+        ]
+    },
+    {
+        "category_name": "Smoke-Flavored and Wood-Aged Beer",
+        "style_names": [
+            "6B. Rauchbier",
+            "32A. Classic Style Smoked Beer",
+            "33A. Wood-Aged Beer"
+        ]
+    },
+    {
+        "category_name": "Specialty Beer",
+        "style_names": [
+            "3A. Czech Pale Lager",
+            "2B. International Amber Lager",
+            "3C. Czech Amber Lager",
+            "4B. Festbier",
+            "3D. Czech Dark Lager",
+            "5A. German Leichtbier",
+            "7C. Kellerbier",
+            "12A. British Golden Ale",
+            "12B. Australian Sparkling Ale",
+            "21B. Specialty IPA (all)",
+            "15C. Irish Extra Stout",
+            "16C. Tropical Stout",
+            "26A. Trappist Single",
+            "17A. English Strong Ale",
+            "22B. American Strong Ale",
+            "22D. Wheatwine",
+            "27. Historical Beer",
+            "28A. Brett Beer",
+            "28B. Mixed-Fermentation Sour Beer",
+            "28C. Soured Fruit Beer",
+            "29B. Fruit and Spice Beer",
+            "29C. Specialty Fruit Beer",
+            "30B. Autumn Seasonal Beer",
+            "31A. Alternative Grain Beer",
+            "31B. Alternative Sugar Beer",
+            "32B. Specialty Smoked Beer",
+            "33B. Specialty Wood-Aged Beer",
+            "34A. Clone Beer (non-Belgian styles)",
+            "34B. Mixed-Style Beer",
+            "34C. Experimental Beer"
+        ]
+    }
+]
