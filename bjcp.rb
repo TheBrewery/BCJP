@@ -4,9 +4,68 @@ require 'rubygems'
 require 'byebug'
 require 'json'
 
-styles_hash = JSON.parse(File.read("styles.json"))
+file = File.read("styles.json")
+styles_hash = JSON.parse(file)
 
-# puts styles_hash
+def process_substyle(array)
+	unless array.nil?
+		array.each { |substyle|
+		if substyle["subtypes"]
+			# byebug
+			process_substyle(substyle["subtypes"])
+		end
+
+		if substyle["name"].length
+			match = substyle["name"].to_s.match('(\d+[A-Z]+)\.\s(.*)')
+			if match
+				id, name = match.captures
+				substyle["identifier"] = id
+				substyle["name"] = name
+			end
+		end
+
+		if substyle["og_low"]
+			match = substyle["og_low"].to_s.match('(\d\.\d+)\s+–\s+(\d\.\d+)')
+			if match
+				low, high = match.captures
+				substyle["og_low"] = low
+				substyle["og_high"] = high
+			end
+		end
+
+		if substyle["ibu_low"]
+			match = substyle["ibu_low"].to_s.match('(\d+)\s+–\s+(\d+)\s+FG:\s+(\d\.\d+)\s+–\s+(\d\.\d+)')
+			if match
+				low, high, fg_low, fg_high = match.captures
+				substyle["ibu_low"] = low
+				substyle["ibu_high"] = high
+				substyle["fg_low"] = fg_low
+				substyle["fg_high"] = fg_high
+			end
+		end
+
+		if substyle["srm_low"]
+			match = substyle["srm_low"].to_s.match('(\d+\.?\d*)\s+–\s*(\d+).*ABV:\s+(\d\.\d+)\s+–\s+(\d*\.*\d+)')
+			if match
+				low, high, abv_low, abv_high = match.captures
+				substyle["srm_low"] = low
+				substyle["srm_high"] = high
+				substyle["abv_low"] = abv_low
+				substyle["abv_high"] = abv_high
+			end
+		end
+
+		if substyle["commercial_examples"]
+			substyle["commercial_examples"] = substyle["commercial_examples"].split(", ")
+		end
+
+		if substyle["tags"]
+			substyle["tags"] = substyle["tags"].split(", ")
+		end
+
+		}
+	end
+end
 
 styles_hash["styles"].each { |style|
 
@@ -14,60 +73,7 @@ styles_hash["styles"].each { |style|
 	style["style_name"] = name
 	style["identifier"] = id
 
-	substyles = style["substyles"]
-
-	if substyles
-		substyles.each { |substyle|
-		if substyle["name"].length
-			id, name = substyle["name"].to_s.match('(\d+[A-Z]+)\.\s(.*)').captures
-			substyle["identifier"] = id
-			substyle["name"] = name
-		end
-		}
-	end
-
-	# puts substyle["og_low"]
-
-	# low_high_values = substyle["og_low"].to_s.match('(\d.\d+)').names
-	# puts "first #{low_high_values.first}"
-	# puts "last #{low_high_values.last}"
-	# type = "og"
-	# styles_hash[style_name]["#{type}_low"] = low_high_values.first
-	# styles_hash[style_name]["#{type}_high"] = low_high_values.last
-
-
-# 	style_name = value
-# 	styles_hash[style_name] = Hash.new 
-# elsif key.include? "vital_statistics og"
-# 	key = key.tr("vital_statistics og", "").tr("  ", "")
-# 	low_high_values = key.split("–")
-# 	type = "og"
-# 	styles_hash[style_name]["#{type}_low"] = low_high_values.first
-# 	styles_hash[style_name]["#{type}_high"] = low_high_values.last
-# elsif key.include? "fg" 
-# 	ibu_final_gravity = key.split("fg")
-# 	ibu_low_high = ibu_final_gravity.first.tr("  ", "").split("_–_")
-# 	styles_hash[style_name]["ibu_low"] = ibu_low_high.first
-# 	styles_hash[style_name]["ibu_high"] = ibu_low_high.last
-# 	fg_low_high = ibu_final_gravity.last.tr("  ", "").split("_–_")
-# 	styles_hash[style_name]["fg_low"] = fg_low_high.first
-# 	styles_hash[style_name]["fg_high"] = fg_low_high.last
-# elsif key.include? "abv" 
-# 	srm_abv = key.split("abv")
-# 	srm_low_high = srm_abv.first.tr("  ", "").split("_–_")
-# 	styles_hash[style_name]["srm_low"] = srm_low_high.first
-# 	styles_hash[style_name]["srm_high"] = srm_low_high.last
-
-# 	abv_low_high = srm_abv.last.tr("  ", "").tr("%","").split("_–_")
-# 	styles_hash[style_name]["abv_low"] = abv_low_high.first
-# 	styles_hash[style_name]["abv_high"] = abv_low_high.last
-# elsif key == "tags" || key == "commercial_examples"
-# 	styles_hash[style_name][key] = value.split(", ")
-# elsif key != "" && value != ""
-# 	styles_hash[style_name][key] = value
-# # else
-# 	# break
-# end
+	process_substyle(style["substyles"])
 }
 
-File.write('bjcp_styles1.json', JSON.pretty_generate(styles_hash))
+File.write('bjcp_styles.json', JSON.pretty_generate(styles_hash))

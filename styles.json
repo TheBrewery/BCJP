@@ -35,7 +35,7 @@
                     "og_low": "1.040 – 1.050",
                     "ibu_low": "8 – 18 FG: 1.004 – 1.010",
                     "srm_low": "2 – 4 ABV: 4.2 – 5.3%",
-                    "commercial_examples: ": "Budweiser, Coors Original, Grain Belt Premium Lager, Miller High Life, Pabst Blue Ribbon, Special Export",
+                    "commercial_examples": "Budweiser, Coors Original, Grain Belt Premium Lager, Miller High Life, Pabst Blue Ribbon, Special Export",
                     "tags": "standard-strength, pale-color, bottom-fermented, lagered, north-america, traditional-style, pale-lager-family, balanced"
                 },
                 {
@@ -52,7 +52,7 @@
                     "og_low": "1.042 – 1.055",
                     "ibu_low": "8 – 20 FG: 1.006 – 1.012",
                     "srm_low": "2.5 – 5 ABV: 4.2 – 5.6%",
-                    "commercial_examples: ": "Genesee Cream Ale, Liebotschaner Cream Ale, Little Kings Cream Ale, New Glarus Spotted Cow, Old Style, Sleeman Cream Ale",
+                    "commercial_examples": "Genesee Cream Ale, Liebotschaner Cream Ale, Little Kings Cream Ale, New Glarus Spotted Cow, Old Style, Sleeman Cream Ale",
                     "tags": "standard-strength, pale-color, any-fermentation, north-america, traditional-style, pale-ale-family, balanced"
                 },
                 {
@@ -69,7 +69,7 @@
                     "og_low": "1.040 – 1.055",
                     "ibu_low": "15 – 30 FG: 1.008 – 1.013",
                     "srm_low": "3 – 6 ABV: 4.0 – 5.5%",
-                    "commercial_examples: ": "Bell’s Oberon, Boulevard Unfiltered Wheat Beer, Goose Island 312 Urban Wheat Ale, Widmer Hefeweizen",
+                    "commercial_examples": "Bell’s Oberon, Boulevard Unfiltered Wheat Beer, Goose Island 312 Urban Wheat Ale, Widmer Hefeweizen",
                     "tags": "standard-strength, pale-color, any-fermentation, north-america, craft-style, wheat-beer-family, balanced"
                 }
             ]
@@ -92,7 +92,7 @@
                     "og_low": "1.042 – 1.050",
                     "ibu_low": "18 – 25 FG: 1.008 – 1.012",
                     "srm_low": "2 – 6 ABV: 4.6 – 6.0%",
-                    "commercial_examples: ": "Asahi Super Dry, Birra Moretti, Corona Extra, Devils Backbone Gold Leaf Lager, Full Sail Session Premium Lager, Heineken, Red Stripe, Singha",
+                    "commercial_examples": "Asahi Super Dry, Birra Moretti, Corona Extra, Devils Backbone Gold Leaf Lager, Full Sail Session Premium Lager, Heineken, Red Stripe, Singha",
                     "tags": "standard-strength, pale-color, bottom-fermented, lagered, traditional-style, pale-lager-family, balanced"
                 },
                 {
@@ -109,7 +109,7 @@
                     "og_low": "1.042 – 1.055",
                     "ibu_low": "8 – 25 FG: 1.008 – 1.014",
                     "srm_low": "7 – 14 ABV: 4.6 – 6.0%",
-                    "commercial_examples: ": "Brooklyn Lager, Capital Winter Skål, Dos Equis Amber, Schell’s Oktoberfest, Yuengling Lager",
+                    "commercial_examples": "Brooklyn Lager, Capital Winter Skål, Dos Equis Amber, Schell’s Oktoberfest, Yuengling Lager",
                     "tags": "standard-strength, amber-color, bottom-fermented, lagered, traditional-style, amber-lager-family, malty"
                 },
                 {
@@ -126,7 +126,7 @@
                     "og_low": "1.044 – 1.056",
                     "ibu_low": "8 – 20 FG: 1.008 – 1.012",
                     "srm_low": "14 – 22 ABV: 4.2 – 6.0%",
-                    "commercial_examples: ": "Baltika #4 Original, Devils Backbone Old Virginia Dark, Dixie Blackened Voodoo, Saint Pauli Girl Dark, San Miguel Dark, Session Black Dark Lager, Shiner Bock",
+                    "commercial_examples": "Baltika #4 Original, Devils Backbone Old Virginia Dark, Dixie Blackened Voodoo, Saint Pauli Girl Dark, San Miguel Dark, Session Black Dark Lager, Shiner Bock",
                     "tags": "standard-strength, dark-color, bottom-fermented, lagered, traditional-style, dark-lager-family, malty"
                 }
             ]
@@ -149,7 +149,7 @@
                     "og_low": "1.028 – 1.044",
                     "ibu_low": "       20 – 35        FG:        1.008 – 1.014",
                     "srm_low": "       3 – 6        ABV:        3.0 – 4.1%",
-                    "commercial_examples: ": "Březňák Světlé výčepní pivo, Notch Session Pils, Pivovar Kout na Šumavě Koutská 10°, Únětické pivo 10°",
+                    "commercial_examples": "Březňák Světlé výčepní pivo, Notch Session Pils, Pivovar Kout na Šumavě Koutská 10°, Únětické pivo 10°",
                     "tags": "session-strength, pale-color, bottom-fermented, lagered, central-europe, traditional-style, pale-lager-family, bitter, hoppy"
                 },
                 {
@@ -166,7 +166,7 @@
                     "og_low": "1.044 – 1.060",
                     "ibu_low": "       30 – 45        FG:        1.013 – 1.017",
                     "srm_low": "       3.5 – 6        ABV:        4.2 – 5.8%",
-                    "commercial_examples: ": "Bernard Sváteční ležák, Gambrinus Premium, Kout na Šumavě Koutská 12°, Pilsner Urquell, Pivovar Jihlava Ježek 11°, Primátor Premium, Únětická 12°",
+                    "commercial_examples": "Bernard Sváteční ležák, Gambrinus Premium, Kout na Šumavě Koutská 12°, Pilsner Urquell, Pivovar Jihlava Ježek 11°, Primátor Premium, Únětická 12°",
                     "tags": "standard-strength, pale-color, bottom-fermented, lagered, central-europe, traditional-style, pilsner-family, balanced, hoppy"
                 },
                 {
@@ -183,7 +183,7 @@
                     "og_low": "1.044 – 1.060",
                     "ibu_low": "       20 – 35        FG:        1.013 – 1.017",
                     "srm_low": "       10 – 16        ABV:        4.4 – 5.8%",
-                    "commercial_examples: ": "Bernard Jantarový ležák, Pivovar Vysoký Chlumec Démon, Primátor polotmavý 13°, Strakonický Dudák Klostermann polotmavý ležák 13°",
+                    "commercial_examples": "Bernard Jantarový ležák, Pivovar Vysoký Chlumec Démon, Primátor polotmavý 13°, Strakonický Dudák Klostermann polotmavý ležák 13°",
                     "tags": "standard-strength, amber-color, bottom-fermented, lagered, central-europe, traditional-style, amber-lager-family, balanced"
                 },
                 {
@@ -200,7 +200,7 @@
                     "og_low": "1.044 – 1.060",
                     "ibu_low": "       18 – 34        FG:        1.013 – 1.017",
                     "srm_low": "       14 – 35        ABV:        4.4 – 5.8%",
-                    "commercial_examples: ": "Bohemian Brewery Cherny Bock 4%, Budweiser Budvar B:Dark tmavý ležák, Devils Backbone Morana, Kout na Šumavě Koutský tmavý speciál 14°, Notch Černé Pivo, Pivovar Březnice Herold, U Fleků Flekovský tmavý 13° ležák",
+                    "commercial_examples": "Bohemian Brewery Cherny Bock 4%, Budweiser Budvar B:Dark tmavý ležák, Devils Backbone Morana, Kout na Šumavě Koutský tmavý speciál 14°, Notch Černé Pivo, Pivovar Březnice Herold, U Fleků Flekovský tmavý 13° ležák",
                     "tags": "standard-strength, dark-color, bottom-fermented, lagered, central-europe, traditional-style, dark-lager-family, balanced"
                 }
             ]
@@ -223,7 +223,7 @@
                     "og_low": "1.044 – 1.048",
                     "ibu_low": "16 – 22 FG: 1.006 – 1.012",
                     "srm_low": "3 – 5 ABV: 4.7 – 5.4%",
-                    "commercial_examples: ": "Augustiner Lagerbier Hell, Bürgerbräu Wolznacher Hell Naturtrüb, Hacker-Pschorr Münchner Gold, Löwenbraü Original, Paulaner Premium Lager, Spaten Premium Lager, Weihenstephaner Original",
+                    "commercial_examples": "Augustiner Lagerbier Hell, Bürgerbräu Wolznacher Hell Naturtrüb, Hacker-Pschorr Münchner Gold, Löwenbraü Original, Paulaner Premium Lager, Spaten Premium Lager, Weihenstephaner Original",
                     "tags": "standard-strength, pale-color, bottom-fermented, lagered, central-europe, traditional-style, pale-lager-family, malty"
                 },
                 {
@@ -240,7 +240,7 @@
                     "og_low": "1.054 – 1.057",
                     "ibu_low": "18 – 25 FG: 1.010 – 1.012",
                     "srm_low": "4 – 7 ABV: 5.8 – 6.3%",
-                    "commercial_examples: ": "Augustiner Oktoberfest, Hacker-Pschorr Superior Festbier, Hofbräu Festbier, Löwenbräu Oktoberfestbier, Paulaner Wiesn, Schönramer Gold, Weihenstephaner Festbier",
+                    "commercial_examples": "Augustiner Oktoberfest, Hacker-Pschorr Superior Festbier, Hofbräu Festbier, Löwenbräu Oktoberfestbier, Paulaner Wiesn, Schönramer Gold, Weihenstephaner Festbier",
                     "tags": "standard-strength, pale-color, bottom-fermented, lagered, central-europe, traditional-style, pale-lager-family, malty"
                 },
                 {
@@ -257,7 +257,7 @@
                     "og_low": "1.064 – 1.072",
                     "ibu_low": "23 – 35 FG: 1.011 – 1.018",
                     "srm_low": "6 – 11 ABV: 6.3 – 7.4%",
-                    "commercial_examples: ": "Altenmünster Maibock, Ayinger Maibock, Capital Maibock, Blind Tiger Maibock, Einbecker Mai-Urbock, Hacker-Pschorr Hubertus Bock, Mahr’s Bock",
+                    "commercial_examples": "Altenmünster Maibock, Ayinger Maibock, Capital Maibock, Blind Tiger Maibock, Einbecker Mai-Urbock, Hacker-Pschorr Hubertus Bock, Mahr’s Bock",
                     "tags": "high-strength, pale-color, bottom-fermented, lagered, central-europe, traditional-style, bock-family, malty"
                 }
             ]
@@ -280,7 +280,7 @@
                     "og_low": "1.026 – 1.034",
                     "ibu_low": "15 – 28 FG: 1.006 – 1.010",
                     "srm_low": "2 – 5 ABV: 2.4 – 3.6%",
-                    "commercial_examples: ": "Beck’s Light, Bitburger Light, Mahr’s Leicht, Paulaner Münchner Hell Leicht, Paulaner Premium Leicht",
+                    "commercial_examples": "Beck’s Light, Bitburger Light, Mahr’s Leicht, Paulaner Münchner Hell Leicht, Paulaner Premium Leicht",
                     "tags": "session-strength, pale-color, bottom-fermented, lagered, central-europe, traditional-style, pale-lager-family, bitter, hoppy"
                 },
                 {
@@ -297,7 +297,7 @@
                     "og_low": "1.044 – 1.050",
                     "ibu_low": "18 – 30 FG: 1.007 – 1.011",
                     "srm_low": "3.5 – 5 ABV: 4.4 – 5.2%",
-                    "commercial_examples: ": "Früh Kölsch, Gaffel Kölsch, Mühlen Kölsch, Reissdorf Kölsch, Sion Kölsch, Sünner Kölsch",
+                    "commercial_examples": "Früh Kölsch, Gaffel Kölsch, Mühlen Kölsch, Reissdorf Kölsch, Sion Kölsch, Sünner Kölsch",
                     "tags": "standard-strength, pale-color, top-fermented, lagered, central-europe, traditional-style, pale-ale-family, balanced"
                 },
                 {
@@ -314,7 +314,7 @@
                     "og_low": "1.048 – 1.056",
                     "ibu_low": "20 – 30 FG: 1.010 – 1.015",
                     "srm_low": "4 – 7 ABV: 4.8 – 6.0%",
-                    "commercial_examples: ": "DAB Original, Dortmunder Kronen, Dortmunder Union Export, Flensburger Gold, Gordon Biersch Golden Export, Great Lakes Dortmunder Gold",
+                    "commercial_examples": "DAB Original, Dortmunder Kronen, Dortmunder Union Export, Flensburger Gold, Gordon Biersch Golden Export, Great Lakes Dortmunder Gold",
                     "tags": "standard-strength, pale-color, bottom-fermented, lagered, central-europe, traditional-style, pale-lager-family, balanced,"
                 },
                 {
@@ -331,7 +331,7 @@
                     "og_low": "1.044 – 1.050",
                     "ibu_low": "22 – 40 FG: 1.008 – 1.013",
                     "srm_low": "2 – 5 ABV: 4.4 – 5.2%",
-                    "commercial_examples: ": "König Pilsener, Left Hand Polestar Pils, Paulaner Premium Pils, Schönramer Pils, Stoudt Pils, Tröegs Sunshine Pils, Trumer Pils",
+                    "commercial_examples": "König Pilsener, Left Hand Polestar Pils, Paulaner Premium Pils, Schönramer Pils, Stoudt Pils, Tröegs Sunshine Pils, Trumer Pils",
                     "tags": "standard-strength, pale-color, bottom-fermented, lagered, central-europe, traditional-style, pilsner-family, bitter, hoppy"
                 }
             ]
@@ -354,7 +354,7 @@
                     "og_low": "1.054 – 1.060",
                     "ibu_low": "18 – 24 FG: 1.010 – 1.014",
                     "srm_low": "8 – 17 ABV: 5.8 – 6.3%",
-                    "commercial_examples: ": "Buergerliches Ur-Saalfelder, Hacker-Pschorr Original Oktoberfest, Paulaner Oktoberfest, Weltenburg Kloster Anno 1050",
+                    "commercial_examples": "Buergerliches Ur-Saalfelder, Hacker-Pschorr Original Oktoberfest, Paulaner Oktoberfest, Weltenburg Kloster Anno 1050",
                     "tags": "standard-strength, amber-color, bottom-fermented, lagered, central-europe, traditional-style, amber-lager-family, malty"
                 },
                 {
@@ -371,7 +371,7 @@
                     "og_low": "1.050 – 1.057",
                     "ibu_low": "20 – 30 FG: 1.012 – 1.016",
                     "srm_low": "12 – 22 ABV: 4.8 – 6%",
-                    "commercial_examples: ": "Eisenbahn Rauchbier, Kaiserdom Rauchbier, Schlenkerla Rauchbier Märzen, Spezial Rauchbier Märzen Victory Scarlet Fire Rauchbier",
+                    "commercial_examples": "Eisenbahn Rauchbier, Kaiserdom Rauchbier, Schlenkerla Rauchbier Märzen, Spezial Rauchbier Märzen Victory Scarlet Fire Rauchbier",
                     "tags": "standard-strength, amber-color, bottom-fermented, lagered, central-europe, traditional-style, amber-lager-family, malty, smoke"
                 },
                 {
@@ -388,7 +388,7 @@
                     "og_low": "1.064 – 1.072",
                     "ibu_low": "20 – 27 FG: 1.013 – 1.019",
                     "srm_low": "14 – 22 ABV: 6.3 – 7.2%",
-                    "commercial_examples: ": "Aass Bock, Einbecker Ur-Bock Dunkel, Great Lakes Rockefeller Bock, Kneitinger Bock, New Glarus Uff-da Bock, Penn Brewery St. Nikolaus Bock",
+                    "commercial_examples": "Aass Bock, Einbecker Ur-Bock Dunkel, Great Lakes Rockefeller Bock, Kneitinger Bock, New Glarus Uff-da Bock, Penn Brewery St. Nikolaus Bock",
                     "tags": "high-strength, amber-color, bottom-fermented, lagered, central-europe, traditional-style, bock-family, malty"
                 }
             ]
@@ -1735,7 +1735,7 @@
             "style_name": "1.27. Historical Beer",
             "style_desc": "The Historical Beer category contains styles that either have all but died out in modern times, or that were much more popular in past times and are known only through recreations. This category can also be used for traditional or indigenous beers of cultural importance within certain countries. Placing a beer in the historical category does not imply that it is not currently being produced, just that it is a very minor style or perhaps is in the process of rediscovery by craft brewers.",
             "entry_instructions": "The entrant must either specify a style with a BJCP-supplied description from the list below, or specify a different historical beer style that is not described elsewhere in these guidelines. In the case of a style that has changed substantially over the years (such as Porter or Stout), the entrant may specify an existing BJCP style as well as an era (e.g., 1820 English Porter). When the entrant specifies any style not on the BJCP-supplied list, the entrant must provide a description of the style for the judges in sufficient detail to allow the beer to be judged. If a beer is entered with just a style name and no description, it is very unlikely that judges will understand how to judge it. Currently defined examples: Gose, Piwo Grodziskie, Lichtenhainer, Roggenbier, Sahti, Kentucky Common, Pre-Prohibition Lager, Pre-Prohibition Porter, London Brown Ale.",
-            "subtypes": [
+            "substyles": [
                 {
                     "name": "Gose",
                     "overall_impression": "A highly-carbonated, tart and fruity wheat ale with a restrained coriander and salt character and low bitterness. Very refreshing, with bright flavors and high attenuation.",
